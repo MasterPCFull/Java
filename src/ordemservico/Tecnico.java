@@ -1,6 +1,6 @@
-package ordemservico;
+package TesteProjeto.src.ordemservico;
 
-import ordemservico.Pessoa;
+//import ordemservico.Pessoa;
 
 public class Tecnico extends Pessoa {
 

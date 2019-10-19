@@ -1,4 +1,4 @@
-package ordemservico;
+package TesteProjeto.src.ordemservico;
 
 import java.util.Scanner;
 
@@ -8,7 +8,7 @@ import ordemservico.OrdemServico;
 import ordemservico.Servico;
 import ordemservico.Material;
 
-public class Main {
+ public class Main {
     public static void main(String[] args) {
 
         // Declarando classes

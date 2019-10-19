@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tecnico
+comment1.params=nome
+comment1.target=void\ setNome(java.lang.String)
+comment2.params=cpf
+comment2.target=void\ setCpf(java.lang.String)
+comment3.params=telefone
+comment3.target=void\ setTelefone(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getTelefone()
+numComments=5
