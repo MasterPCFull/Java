@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=OrdemServico
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ OndemServico\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=id\ datesolicitacao\ dateincio\ datefim\ valortotal
+comment1.target=OrdemServico(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.lang.String\ getdateSolicitacao()
+comment4.params=
+comment4.target=java.lang.String\ getdateInicio()
+comment5.params=
+comment5.target=java.lang.String\ getdateFim()
+comment6.params=
+comment6.target=double\ getvalorTotal()
+numComments=7

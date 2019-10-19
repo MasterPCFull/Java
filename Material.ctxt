@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Material
+comment1.params=id\ descricao
+comment1.target=Material(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.lang.String\ setDescricao()
+numComments=4
