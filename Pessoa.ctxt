@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Pessoa
-comment1.params=nome\ id\ cpf
-comment1.target=Pessoa(java.lang.String,\ int,\ long)
-comment2.params=nome
-comment2.target=Pessoa(java.lang.String)
-comment3.params=
-comment3.target=java.lang.String\ dizerInfo()
-numComments=4
