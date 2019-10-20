@@ -1,5 +1,7 @@
 package ordemservico;
 
+import java.util.Date;
+
 public class OrdemServico {
     
     public int id;
@@ -13,7 +15,7 @@ public class OrdemServico {
     }
 
     public Date getdateSolicitacao() {
-        return this.dateSolicitac;
+        return this.dateSolicitacao;
     }
 
     public Date getdateInicio() {

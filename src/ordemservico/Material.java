@@ -15,16 +15,16 @@ public class Material {
     }
 
     public int getId(){
-        return this.id
+        return this.id;
     }
 
     // Pegar o que está salvo na descrição
     public String getDescricao(){
-        return  this.descricao
+        return  this.descricao;
     }
 
     public double getValor(){
-        return this.valor
+        return this.valor;
     }
 
     // Acrescentar uma descrição

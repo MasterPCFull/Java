@@ -13,22 +13,22 @@ public class Cliente extends Pessoa {
     // Verificar se o nome é public, protected ou private, dependendo do que for, precisa ser tratado aqui dentro
 
     public String getEndereco(){
-        return this.endereco
+        return this.endereco;
     }
 
     public String getCidade(){
-        return this.cidade
+        return this.cidade;
     }
 
     public String getEstado(){
-        return this.estado
+        return this.estado;
     }
 
     public String getCep(){
-        return this.cep
+        return this.cep;
     }
 
     public String getTelefone(){
-        return this.telefone
+        return this.telefone;
     }
 }

@@ -2,12 +2,12 @@ package ordemservico;
 
 public class Pessoa {
 
-    private int id;
+    protected int id;
     protected String nome;
     protected String cpf;
 
-    private int getId() {
-        return this.id
+    protected int getId() {
+        return this.id;
     }
 
     protected String getNome() {
