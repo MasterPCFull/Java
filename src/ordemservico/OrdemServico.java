@@ -1,12 +1,12 @@
-package TesteProjeto.src.ordemservico;
+package ordemservico;
 
 public class OrdemServico {
+    
     public int id;
     public Date dateSolicitacao;
     public Date dateInico;
     public Date dateFim;
     public double valorTotal;
-
 
     public int getId() {
         return this.id;
@@ -21,10 +21,10 @@ public class OrdemServico {
     }
 
     public Date getdateFim() {
-        return this.dateFim
+        return this.dateFim;
     }
 
     public double getValorTotal(){
-        return this.valorTotal
+        return this.valorTotal;
     }
 }

@@ -1,4 +1,4 @@
-package TesteProjeto.src.ordemservico;
+package ordemservico;
 
 public class Pessoa {
 
@@ -6,17 +6,15 @@ public class Pessoa {
     protected String nome;
     protected String cpf;
 
-    private int getId(){
+    private int getId() {
         return this.id
     }
 
     protected String getNome() {
-
         return this.nome;
     }
 
     protected String getCpf() {
-
         return this.cpf;
     }
 }

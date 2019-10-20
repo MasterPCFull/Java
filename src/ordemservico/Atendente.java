@@ -1,4 +1,4 @@
-package TesteProjeto.src.ordemservico;
+package ordemservico;
 
 import ordemservico.Pessoa;
 
