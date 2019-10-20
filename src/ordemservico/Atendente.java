@@ -2,6 +2,9 @@ package ordemservico;
 
 import ordemservico.Pessoa;
 
+/**
+ * TODO verificar se precisa atribuir ID
+ */
 public class Atendente extends Pessoa {
 
     public void setId(int id) {

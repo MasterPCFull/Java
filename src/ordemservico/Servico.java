@@ -1,5 +1,8 @@
 package ordemservico;
 
+/**
+ * TODO adicionar método setDescricao
+ */
 public class Servico {
     
     public int id;
@@ -9,7 +12,7 @@ public class Servico {
     	return this.id;
     }
 
-    public  String getDescricao(){
+    public String getDescricao(){
     	return this.descricao;
     }
 }

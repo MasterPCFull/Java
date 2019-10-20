@@ -2,6 +2,9 @@ package ordemservico;
 
 import java.util.Date;
 
+/**
+ * TODO verificar como PASSAR date
+ */
 public class OrdemServico {
     
     public int id;

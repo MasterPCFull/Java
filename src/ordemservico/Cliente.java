@@ -2,6 +2,9 @@ package ordemservico;
 
 import ordemservico.Pessoa;
 
+/**
+ * TODO verificar se não existem ações repetidas na classe pai
+ */
 public class Cliente extends Pessoa {
 	
     public String endereco;

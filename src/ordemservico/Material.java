@@ -1,5 +1,8 @@
 package ordemservico;
 
+/**
+ * TODO verificar se iniciar a classe com id 0 e ir acrescentando +1 funciona
+ */
 public class Material {
 	
     public int id = 0;

@@ -1,5 +1,8 @@
 package ordemservico;
 
+/**
+ * TODO testar se o getId funciona fora da classe
+ */
 public class Pessoa {
 
     protected int id;

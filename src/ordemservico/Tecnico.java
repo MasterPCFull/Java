@@ -2,6 +2,9 @@ package ordemservico;
 
 import ordemservico.Pessoa;
 
+/**
+ * TODO testar se classe tecnico está funcionando normalmente
+ */
 public class Tecnico extends Pessoa {
 
     private String telefone;
